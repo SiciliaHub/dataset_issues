@@ -15,7 +15,9 @@ opportuno ed eventualmente a segnalare che il bug è stato risolto.
 #Formato delle issues
 
 Le issues sono categorizzate per pubblica amministrazione responsabile del
-dataset, indicata come label. 
+dataset, indicata come label. Nel caso in cui la pubblica amministrazione
+responsabile del dataset nel quale è stato riscontrato il bug non sia 
+presente vi invito a contattarmi come indicato nella sezione Contatti.
 
 Il titolo della issues ha il seguente formato:
 
@@ -52,10 +54,17 @@ pubblica amministrazione.
 
 Inoltre, le issues vanno inserite come indicato nel parafo Formato delle 
 issues. Nel caso in cui riteniate che questo formato sia inadatto all'errore
-che state andando a segnalare, vi prego di contattarmi all'indirizzo
-mailto:cristianolongo@gmail.com o di inviare una comunicazione sulla
-mailing list (mailto:opendatasicilia@groups.dataninja.it).
+che state andando a segnalare, vi prego di contattarmi come indicato nel
+paragrafo Contatti.
 
 Infine, i testi inseriti (`bug` e `descrizione` nel paragrafo Formato delle issues)
 devono essere asettici, limitandosi a descrivere l'errore. Contenuti 
 volgari o offensivi non sono tollerati.
+
+#Contatti
+
+* [Cristiano Longo](mailto:cristianolongo@gmail.com)
+* Open Data Sicilia 
+  - [Mailing List](mailto:opendatasicilia@groups.dataninja.it)
+  - [Facebook]()
+
