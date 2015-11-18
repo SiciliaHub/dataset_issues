@@ -42,7 +42,7 @@ e `descrizione` è una descrizione estesa e quanto più esaustiva possibile dell
 riscontrato.
 
 #Regole per la segnalazione
-Chiunque rilevi trovi un errore su un dataset di una pubblica amministrazione 
+Chiunque rilevi un errore su un dataset di una pubblica amministrazione 
 è invitato a segnalarlo, ma è importante seguire le regole riportate in questo paragrafo.
 
 Innanzitutto, la presenza dell'errore deve essere verificata di persona 
@@ -66,7 +66,7 @@ volgari o offensivi non sono tollerati.
 #Contatti
 
 * [Cristiano Longo](mailto:cristianolongo@gmail.com)
-* Open Data Sicilia 
+* [Open Data Sicilia](http://opendatasicilia.it) 
   - [Mailing List](mailto:opendatasicilia@groups.dataninja.it)
-  - [Facebook]()
+  - [Facebook](https://www.facebook.com/groups/opendatasicilia/)
 
